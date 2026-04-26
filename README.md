@@ -10,9 +10,11 @@ Working through CS330's main project in structured milestones helped me realize 
 
 <img width="1000" height="834" alt="Cloud Gate Building Shapes" src="https://github.com/user-attachments/assets/324ca4d5-0ac6-4ef7-b5d8-7326bb419483" />
 
+
 Once the building dimensions were appropriate, I applied the surface textures in the second iteration:
 
 <img width="1001" height="837" alt="Cloud_Gate_Front" src="https://github.com/user-attachments/assets/e8204c08-3b04-4ff0-a9b4-4c9562d74866" />
+
 
 Afterward, I modularized and cleaned up certain aspects of the code.
 
